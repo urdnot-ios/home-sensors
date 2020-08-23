@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/jsewell/home-sensors/anemometer/src/main/resources/logback.xml,/Users/jsewell/home-sensors/anemometer/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/jsewell/home-sensors/anemometer/src/main/resources/application.conf,/Users/jsewell/home-sensors/anemometer/target/scala-2.13/classes/application.conf)[0m
