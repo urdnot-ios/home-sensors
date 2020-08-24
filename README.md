@@ -67,5 +67,7 @@ The various Kafka message consumer/formatters are here:
 The OpenWeatherMap API service as well as a central place to query door status. There is also an MQTT pass-through to Kafka for my 
 Arduino-style sensors.
 
+[Home API Proxy](https://github.com/urdnot-ios/HomeApiService)
+
 #### Ansible Scripts
 mostly used when I have a new pi or need to reformat an existing one.
