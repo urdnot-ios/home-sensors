@@ -62,6 +62,7 @@ make them modular and independent, however they are hobby code and built for my 
 The various Kafka message consumer/formatters are here:
 
 [Anemometer](https://github.com/urdnot-ios/iotKafkaWindDirection)
+
 [sht10 Sensor](https://github.com/urdnot-ios/iotKafkaSht10Sensor)
 
 #### API Service
