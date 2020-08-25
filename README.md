@@ -71,5 +71,5 @@ Arduino-style sensors.
 
 [Home API Proxy](https://github.com/urdnot-ios/HomeApiService)
 
-#### Ansible Scripts
-mostly used when I have a new pi or need to reformat an existing one.
+#### Miscellanous
+[Using Future and Either for Data Parsing](https://github.com/urdnot-ios/simpleFuture)
